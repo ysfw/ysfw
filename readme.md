@@ -74,16 +74,6 @@ const me = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=ysfw&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7&row=1)
-
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
