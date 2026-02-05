@@ -16,7 +16,7 @@
 
 ```javascript
 const me = {
-    role: "Sophomore CS Student 🎓",
+    role: "Sophomore CSE Student 🎓",
     location: "Somewhere in the code matrix 🌐",
     passions: ["Gaming 🎮", "Movies 🎬", "Series 📺", "Coding 💻"],
     currentlyWatching: "// Loading next binge-worthy series...",
