@@ -14,22 +14,9 @@
 
 ## About Me
 
-```javascript
-const me = {
-    role: "Sophomore CSE Student 🎓",
-    location: "Somewhere in the code matrix 🌐",
-    passions: ["Gaming 🎮", "Movies 🎬", "Series 📺", "Coding 💻"],
-    currentlyWatching: "// Loading next binge-worthy series...",
-    currentlyPlaying: "// Respawning...",
-};
-```
-
 <img align="right" alt="Coding GIF" width="250" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-### 🚀 Quick Facts
-
-- 🎓 **Sophomore Computer Engineering Student** on a quest for knowledge
-- 🎮 **Gamer at Heart** - From RPGs to FPS, I play them all
+- 🎓 **Junior Computer Engineering Student** on a quest for knowledge
 - 🍿 **Cinephile** - Always hunting for the next great movie or series
 - 🐧 **Ubuntu Enthusiast** - Because penguins are cool
 - 🌱 Currently leveling up my **Full-Stack Development** skills
