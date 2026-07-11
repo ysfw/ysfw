@@ -14,7 +14,7 @@
 
 ## About Me
 
-<img align="right" alt="Coding GIF" width="250" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding GIF" width="150" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 - 🎓 **Junior Computer Engineering Student** on a quest for knowledge
 - 🍿 **Cinephile** - Always hunting for the next great movie or series
