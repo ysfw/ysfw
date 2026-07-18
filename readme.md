@@ -61,16 +61,6 @@
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/ysfw/ysfw/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
 ## 🤝 Let's Connect!
 
 <div align="center">
