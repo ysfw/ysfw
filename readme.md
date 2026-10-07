@@ -10,7 +10,6 @@
 
 </div>
 
----
 
 ## About Me
 
@@ -21,7 +20,6 @@
 - 🐧 **Ubuntu Enthusiast** - Because penguins are cool
 - 🌱 Currently leveling up my **Full-Stack Development** skills
 
----
 
 ## 🛠️ Tech Arsenal
 
@@ -54,12 +52,23 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ysfw&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C5CE7&text_color=ffffff&langs_count=8"/>
 </a>
 
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ysfw&bg_color=0D1117&color=6C5CE7&line=a855f7&point=FFFFFF&area=true&hide_border=true" width="90%"/>
-
 </div>
 
----
+
+## 🏆 Competitive Programming
+ 
+<div align="center">
+  
+<br/>
+<!-- Codeforces stats -->
+<a href="https://codeforces.com/profile/ysfw">
+  <img height="180em" src="https://codeforces-readme-stats.vercel.app/api/card?username=ysfw&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C5CE7&text_color=ffffff&icon_color=a855f7"/>
+</a>
+<!-- LeetCode stats -->
+<a href="https://leetcode.com/u/ysfw/">
+  <img height="180em" src="https://leetcard.jacoblin.cool/ysfw?theme=dark&font=Fira%20Code&ext=heatmap"/>
+</a>
+</div>
 
 ## 🤝 Let's Connect!
 
